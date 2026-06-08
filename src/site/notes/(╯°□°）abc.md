@@ -8,8 +8,12 @@ Para saber sobre el artista: [[Documentos/Sobre el artista\|Sobre el artista]]
 
 Para saber sobre la obra: [[Documentos/Documento técnico\|Documento técnico]]
 
+Para saber el proceso de la obra
+- [[Proceso/202606030623\|202606030623]]
+- [[Proceso/202606030648\|202606030648]]
+- [[Proceso/202606080723\|202606080723]]
 
-
+{ .block-language-dataview}
 
 
 

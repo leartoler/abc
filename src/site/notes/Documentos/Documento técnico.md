@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/documentos/documento-tecnico/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/documentos/documento-tecnico/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 

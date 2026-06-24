@@ -10,6 +10,8 @@ Para saber sobre la obra: [[Documentos/Documento técnico\|Documento técnico]]
 
 Para saber el proceso de la obra
 - [[Proceso/2026-06-08\|2026-06-08]]
+- [[Proceso/2026-06-10\|2026-06-10]]
+- [[Proceso/2026-06-16\|2026-06-16]]
 
 { .block-language-dataview}
 
